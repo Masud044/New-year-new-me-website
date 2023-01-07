@@ -211,6 +211,10 @@ ul li:before {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+ .footer-description .footer-link{
+    text-decoration: none;
+    color:#FFFFFF;
+}
 .footer-right-heading{
     color: white;
    margin-bottom: 20px;
